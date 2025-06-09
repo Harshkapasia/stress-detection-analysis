@@ -1,0 +1,3 @@
+[submodule "Mood Analysis"]
+	path = Mood Analysis
+	url = https://github.com/Harshkapasia/stress-detection-analysis.git
